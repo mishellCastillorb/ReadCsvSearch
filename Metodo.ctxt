@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Metodo
+comment1.params=
+comment1.target=Metodo()
+comment2.params=ei
+comment2.target=void\ agregarEstablecimiento(Establecimiento)
+comment3.params=ne
+comment3.target=Metodo\ filtroNomEstable(java.lang.String)
+comment4.params=ne
+comment4.target=Metodo\ filtroNomEntidad(java.lang.String)
+comment5.params=ne
+comment5.target=Metodo\ filtroNomMunicipio(java.lang.String)
+comment6.params=ne
+comment6.target=Metodo\ filtroId(java.lang.String)
+comment7.params=
+comment7.target=void\ imprimir()
+numComments=8
